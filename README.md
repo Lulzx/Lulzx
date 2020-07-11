@@ -1,6 +1,6 @@
 I am **Lulzx** the great, your good lord and saviour, worship me!
 
-Buy me some beers by sending money via [PayPal](https://www.paypal.me/lulzx) to get my blessings.
+To get my blessings, buy me some beers by sending money via [PayPal](https://www.paypal.me/lulzx).
 
 I am *currently not looking for any work*, your requests won't be entertained at all.
 
