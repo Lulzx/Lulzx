@@ -1,3 +1,5 @@
+[![Lulzx's github stats](https://github-readme-stats.vercel.app/api?username=lulzx)](https://rishabh.xyz)
+
 I am **Lulzx** the great, your good lord and saviour, worship me!
 
 To get my blessings, buy me some beers by sending money via [PayPal](https://www.paypal.me/lulzx).
