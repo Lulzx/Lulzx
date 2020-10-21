@@ -8,6 +8,6 @@ To get my blessings, buy me some beers by sending money via [PayPal](https://www
 
 I am *currently not looking for any work*, your requests won't be entertained at all.
 
-If you're interested in discussing my *evil plans to take over the world*, feel free to contact me on Telegram.
+If you're interested in discussing my *evil plans to take over the world*, feel free to contact me on [Telegram](https://t.me/lulzx).
 
 Consider my work under public domain unless stated otherwise. I seek no interest in licensing any software I offer here.
