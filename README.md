@@ -1,7 +1,3 @@
-[![Lulzx's github stats](https://github-readme-stats.vercel.app/api?username=lulzx&show_icons=true&count_private=true&include_all_commits=true)](https://rishabh.xyz)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lulzx&langs_count=10&hide=c,html,css,java,makefile,coffeescript&layout=compact)](https://github.com/lulzx)
-
 I am **Lulzx** the great, your good lord and saviour, worship me!
 
 To get my blessings, buy me some beers by sending money via [PayPal](https://www.paypal.me/lulzx).
