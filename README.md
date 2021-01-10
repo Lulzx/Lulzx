@@ -11,6 +11,7 @@ If you're interested in discussing my *evil plans to take over the world*, feel 
 
 **For Web**
 
+- [Vue.js](https://vuejs.org/)
 - [Svelte](https://svelte.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [FastAPI](https://fastapi.tiangolo.com/)
