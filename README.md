@@ -27,7 +27,7 @@ If you're interested in discussing my *evil plans to take over the world*, feel 
 **For Desktop Application**
 
 - [Red](https://www.red-lang.org/)
-- [PySide2](https://www.pyside.org/)
+- [PySide6](https://www.pyside.org/)
 
 **For Data wrangling**
 
