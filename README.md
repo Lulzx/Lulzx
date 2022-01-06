@@ -12,19 +12,18 @@ If you're interested in discussing my *evil plans to take over the world*, feel 
 - [ReScript](https://rescript-lang.org/)
 - [Vue.js](https://vuejs.org/)
 - [Svelte](https://svelte.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
 - [FastAPI](https://fastapi.tiangolo.com/)
 - [Tailwind CSS](https://tailwindcss.com/)
 
 **For General Programming**
 
+- [Go](https://go.dev/)
+- [Nim](https://nim-lang.org/)
 - [Rust](https://www.rust-lang.org/)
 - [Haxe](https://haxe.org/)
 - [Pharo](https://pharo.org/)
 - [OCaml](https://ocaml.org/)
-- [Go](https://go.dev/)
 - [Elixir](https://elixir-lang.org/)
-- [Nim](https://nim-lang.org/)
 
 **For Desktop Application**
 
