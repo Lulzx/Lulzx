@@ -22,6 +22,9 @@ If you're interested in discussing my *evil plans to take over the world*, feel 
 - [Haxe](https://haxe.org/)
 - [Pharo](https://pharo.org/)
 - [OCaml](https://ocaml.org/)
+- [Go](https://go.dev/)
+- [Elixir](https://elixir-lang.org/)
+- [Nim](https://nim-lang.org/)
 
 **For Desktop Application**
 
@@ -31,8 +34,11 @@ If you're interested in discussing my *evil plans to take over the world*, feel 
 **For Data wrangling**
 
 - [J](https://www.jsoftware.com/)
+- [Julia](https://julialang.org/)
+- [Python](https://www.python.org/)
 
 **For Mobile Application**
 
 - [Flutter](https://flutter.dev/)
+- [Kotlin](https://kotlinlang.org/)
 - [CapacitorJS](https://capacitorjs.com/)
