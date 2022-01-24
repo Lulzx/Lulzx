@@ -1,8 +1,6 @@
-I am **Lulzx** the great, your good lord and saviour, worship me!
+I am **Lulzx**, a generalist who's especially independent and risk seeking.
 
-I am *currently not looking for any work*, your requests won't be entertained at all.
-
-If you're interested in discussing my *evil plans to take over the world*, feel free to contact me on [Telegram](https://t.me/lulzx).
+If you're interested in having a conversation, feel free to contact me on [Telegram](https://t.me/lulzx).
 
 
 ### Technologies I like:
