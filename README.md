@@ -12,9 +12,11 @@ If you're interested in having a conversation, feel free to contact me on [Teleg
 - [Svelte](https://svelte.dev/)
 - [FastAPI](https://fastapi.tiangolo.com/)
 - [Tailwind CSS](https://tailwindcss.com/)
+- [Wasm](https://webassembly.org/)
 
 **For General Programming**
 
+- [D](https://dlang.org/)
 - [Go](https://go.dev/)
 - [Nim](https://nim-lang.org/)
 - [Rust](https://www.rust-lang.org/)
@@ -22,6 +24,7 @@ If you're interested in having a conversation, feel free to contact me on [Teleg
 - [Pharo](https://pharo.org/)
 - [OCaml](https://ocaml.org/)
 - [Elixir](https://elixir-lang.org/)
+- [Zig](https://ziglang.org/)
 
 **For Desktop Application**
 
