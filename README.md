@@ -10,15 +10,9 @@ If you're interested in having a conversation, feel free to contact me on [Teleg
 - [ReScript](https://rescript-lang.org/)
 - [Vue.js](https://vuejs.org/)
 - [Svelte](https://svelte.dev/)
-- [FastAPI](https://fastapi.tiangolo.com/)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [Wasm](https://webassembly.org/)
 
 **For General Programming**
 
-- [D](https://dlang.org/)
-- [Go](https://go.dev/)
-- [Nim](https://nim-lang.org/)
 - [Rust](https://www.rust-lang.org/)
 - [Haxe](https://haxe.org/)
 - [Pharo](https://pharo.org/)
@@ -29,7 +23,7 @@ If you're interested in having a conversation, feel free to contact me on [Teleg
 **For Desktop Application**
 
 - [Red](https://www.red-lang.org/)
-- [PySide6](https://www.pyside.org/)
+- [PySide](https://www.pyside.org/)
 
 **For Data wrangling**
 
@@ -40,5 +34,4 @@ If you're interested in having a conversation, feel free to contact me on [Teleg
 **For Mobile Application**
 
 - [Flutter](https://flutter.dev/)
-- [Kotlin](https://kotlinlang.org/)
 - [CapacitorJS](https://capacitorjs.com/)
