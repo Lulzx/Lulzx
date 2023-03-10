@@ -7,18 +7,14 @@ If you're interested in having a conversation, feel free to contact me on [Teleg
 
 **For Web**
 
-- [ReScript](https://rescript-lang.org/)
 - [Vue.js](https://vuejs.org/)
 - [Svelte](https://svelte.dev/)
 
 **For General Programming**
 
 - [Rust](https://www.rust-lang.org/)
-- [Haxe](https://haxe.org/)
-- [Pharo](https://pharo.org/)
-- [OCaml](https://ocaml.org/)
 - [Elixir](https://elixir-lang.org/)
-- [Zig](https://ziglang.org/)
+- [Haxe](https://haxe.org/)
 
 **For Desktop Application**
 
