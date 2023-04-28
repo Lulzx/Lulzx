@@ -1,6 +1,6 @@
 I am **Lulzx**, a generalist who's especially independent and risk seeking.
 
-I'm available for hire, lulzx.com/hire
+I'm available for hire, [lulzx.com/hire](https://lulzx.com/hire)
 
 If you're interested in having a conversation, feel free to contact me on [Telegram](https://t.me/lulzx).
 
