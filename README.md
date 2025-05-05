@@ -1,6 +1,6 @@
 I am **Lulzx**, a generalist who's especially independent and risk seeking.
 
-I am a founder-level cognitive scientist and full-stack engineer building at the intersection of intelligence, abstraction, and infrastructure. 
+I build at the intersection of intelligence, abstraction, and infrastructure.
 
 My work spans distributed systems, category theory, algebraic geometry, and AI-paired with deep explorations into human cognition and psychedelics. 
 
