@@ -15,6 +15,7 @@ If you're interested in having a conversation, feel free to contact me on [Teleg
 
 **For Web**
 
+- [Next.js](https://nextjs.org/)
 - [Vue.js](https://vuejs.org/)
 - [Svelte](https://svelte.dev/)
 
