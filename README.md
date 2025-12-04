@@ -1,42 +1,25 @@
-I am **Lulzx**, a generalist who's especially independent and risk seeking.
+# Lulzx
 
-I build at the intersection of intelligence, abstraction, and infrastructure.
+Generalist. Independent. Risk seeking.
 
-My work spans distributed systems, category theory, algebraic geometry, and AI-paired with deep explorations into human cognition and psychedelics. 
+I build at the intersection of **intelligence**, **abstraction**, and **infrastructure**. Spanning distributed systems, category theory, algebraic geometry, and AI. Alongside this, I explore human cognition and psychedelics.
 
-I'm designing scalable models of thought and systems that can learn, adapt, and reason like minds, not just machines.
+My goal: scalable models of thought. Systems that learn, adapt, and reason like minds. Not just machines.
 
-I'm available for hire, [lulzx.com/hire](https://lulzx.com/hire)
+---
 
-If you're interested in having a conversation, feel free to contact me on [Telegram](https://t.me/lulzx).
+### Tech
 
+| Domain | Tools |
+|--------|-------|
+| Web | Next.js · Vue · Svelte |
+| Systems | Rust · Elixir · Haxe |
+| Desktop | Red · PySide |
+| Data | J · Julia · Python |
+| Mobile | Flutter · Capacitor |
 
-### Technologies I like:
+---
 
-**For Web**
+### Connect
 
-- [Next.js](https://nextjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Svelte](https://svelte.dev/)
-
-**For General Programming**
-
-- [Rust](https://www.rust-lang.org/)
-- [Elixir](https://elixir-lang.org/)
-- [Haxe](https://haxe.org/)
-
-**For Desktop Application**
-
-- [Red](https://www.red-lang.org/)
-- [PySide](https://www.pyside.org/)
-
-**For Data wrangling**
-
-- [J](https://www.jsoftware.com/)
-- [Julia](https://julialang.org/)
-- [Python](https://www.python.org/)
-
-**For Mobile Application**
-
-- [Flutter](https://flutter.dev/)
-- [CapacitorJS](https://capacitorjs.com/)
+[Hire me](https://lulzx.com/hire) · [Telegram](https://t.me/lulzx)
