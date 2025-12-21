@@ -19,9 +19,4 @@ Everything minimal: small footprint, zero dependencies where possible, auditable
 **Thinking** · Category theory · Predictive coding · Topology
 
 
-
-### Elsewhere
-
-[lulzx.com](https://lulzx.com) · [@slitdrip](https://x.com/slitdrip) · [@lulzx](https://t.me/lulzx)
-
 Open to interesting problems.
