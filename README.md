@@ -6,6 +6,5 @@ Compilers, simulations, and small libraries. Mostly Zig, C, Rust and Swift, most
 **Libraries** · [tinypdf](https://github.com/Lulzx/tinypdf) · [zpdf](https://github.com/Lulzx/zpdf) · [zs3](https://github.com/Lulzx/zs3) · [tinydocx](https://github.com/Lulzx/tinydocx) · [blaze-bpe](https://github.com/Lulzx/blaze-bpe)  
 **Compilers** · [bendc](https://github.com/Lulzx/bendc) · [arturo-compiler](https://github.com/Lulzx/arturo-compiler) · [tacitj](https://github.com/Lulzx/tacitj) · [hvm](https://github.com/Lulzx/hvm) · [WrenJIT](https://github.com/Lulzx/WrenJIT)  
 **Connectomes** · [fly-brain](https://github.com/Lulzx/fly-brain) · [worm-sim](https://github.com/Lulzx/worm-sim) · [occam-worm](https://github.com/Lulzx/occam-worm)  
-**Synthesis** · [supsearch](https://github.com/Lulzx/supsearch) · [ontogenesis](https://github.com/Lulzx/ontogenesis) · [typed-inference](https://github.com/Lulzx/typed-inference)
 
 Open to interesting problems.
